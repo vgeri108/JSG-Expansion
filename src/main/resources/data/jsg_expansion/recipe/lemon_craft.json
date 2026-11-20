@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jsg_expansion:lemon_block"
+    }
+  ],
+  "result": {
+    "id": "jsg_core:lemon",
+    "count": 9
+  }
+}

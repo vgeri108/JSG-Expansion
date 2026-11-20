@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    ".": {
+      "item": "jsg_core:lemon"
+    }
+  },
+  "pattern": [
+    "...",
+    "...",
+    "..."
+  ],
+  "result": {
+    "count": 1,
+    "id": "jsg_expansion:lemon_block"
+  }
+}
